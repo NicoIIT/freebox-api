@@ -1,6 +1,8 @@
 freebox-api
 ===========
 
+[link](freebox-api/wiki)
+
 |PyPI| |GitHub Release| |Python Version| |License|
 
 |Read the Docs| |Tests| |Codecov| |GitHub Activity|
